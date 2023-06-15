@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Se-hyun%20Kim&fontSize=90)
 <div align="between">
-   <img src="./images/Ellipse 1.png" width="300">
-    <div>
+   <img src="./images/Ellipse 1.png" width="300">    
     <p>이름 : 김세현</p>
-    </div>
 </div>
 <div align="center">
     <h3>Technology Stack</h3>
