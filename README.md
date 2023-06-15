@@ -12,7 +12,7 @@
   </div>
 </div>
 <div align="center">
-    <h3>Technology Stack</h3>
+    <h2>Technology Stack</h2>
      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"/>
@@ -32,7 +32,7 @@
 </div>
 <hr/>
 <div align="center">
- <h3>GitHub Stats</h3>
+ <h2>GitHub Stats</h2>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=kim333333d&show_icons=true">
         <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kim333333d>
@@ -40,7 +40,8 @@
 </div>
 <hr/>
 <div align="center">
-    <h3>software developer camp</h3>
+    <h2>software developer camp</h2>
+    <h3>최종 프로젝트</h3>
     <h5>2023.01.30 ~ 2023.07.20</h5>
     <img src="./images/streamparkLogo.png" width="700">
     <p>비대면 시대 이후 OTT(Over-The-Top) 서비스의 수요 증가 및 고객들의 편리하고 쾌적한 컨텐츠 이용 요구에 따라 OTT 서비스 플랫폼 구축을 통하여 신규 회원가입 및 원활한 컨텐츠 이용환경을 제공하고자 함. </p>
