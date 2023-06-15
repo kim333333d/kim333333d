@@ -37,7 +37,11 @@
         <img src="https://github-readme-stats.vercel.app/api?username=kim333333d&show_icons=true">
         <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kim333333d>
     </div>
-   
+</div>
+<div align="center">
+    <h3>software developer camp</h3>
+    <h5>2023.01.30 ~ 2023.07.20</h5>
+    <img src="./images/streamparkLogo.png" width="700">
 </div>
 <!-- ### Hi there 👋 -->
 
