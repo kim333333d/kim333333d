@@ -2,11 +2,7 @@
 <div align="center">
     <h3>About me</h3>
 </div>
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Se-hyun%20Kim&fontSize=90)
-
-| ![Image](./images/Ellipse 1.png) | 이름: 김세현 |
-| :-------------------------------: | :---------: |
-<!-- <div align="between">
+<div align="between">
   <img src="./images/Ellipse 1.png" width="300" style="margin-right: 20px;">
   <div>
     <p>이름: 김세현</p>
@@ -14,7 +10,7 @@
     <p>이름: 김세현</p>
     <p>이름: 김세현</p>
   </div>
-</div> -->
+</div>
 <div align="center">
     <h3>Technology Stack</h3>
      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
