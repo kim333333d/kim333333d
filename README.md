@@ -5,7 +5,10 @@
 <div align="center">
   <img src="./images/Ellipse 1.png" width="300" style="margin-right: 20px;">
   <div>
-    <p>끝없이 발전하는 삶을 위해</p>
+    <p>Harder</p>
+    <p>Better</p>
+    <p>Faster</p>
+    <p>Stronger</p>
   </div>
 </div>
 <div align="center">
