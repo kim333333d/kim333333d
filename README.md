@@ -8,7 +8,12 @@
     <img src="https://img.shields.io/badge/eclipseide-525C86?style=for-the-badge&logo=eclipseide&logoColor=black"/>
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black"/>
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"/>
     <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+    <img src="https://img.shields.io/badge/fontawesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=black"/>
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black"/>
+    <img src="https://img.shields.io/badge/jsp-4479A1?style=for-the-badge&logo=jsp&logoColor=black"/>
 </div>
 <hr/>
 <div align="center">
