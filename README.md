@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/jsp-4479A1?style=for-the-badge&logo=jsp&logoColor=black"/>
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=black"/>
     <img src="https://img.shields.io/badge/VScode-0735AD?style=for-the-badge&logo=VScode&logoColor=black"/>
-    <img src="https://img.shields.io/badge/VScode-0735AD?style=for-the-badge&logo=VScode&logoColor=black"/>
+ 
 </div>
 <hr/>
 <div align="center">
