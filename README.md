@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Se-hyun%20Kim&fontSize=90)
 <div align="between">
-    <div>
-    </div>
+   <img src="https://raw.githubusercontent.com/kim333333d/kim333333d/main/images/Ellipse.png" width="600">
     <div>
     </div>
 </div>
