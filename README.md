@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Se-hyun%20Kim&fontSize=90)
 <div align="center">
-    <p style="font-size 20px;">technology stack</p>
+    <h4>technology stack</h4>
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kim333333d&show_icons=true">
