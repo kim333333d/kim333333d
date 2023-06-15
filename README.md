@@ -1,4 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Se-hyun%20Kim&fontSize=90)
+<div align="between">
+    <div>
+    </div>
+    <div>
+    </div>
+</div>
 <div align="center">
     <h3>Technology Stack</h3>
      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
@@ -16,11 +22,17 @@
     <img src="https://img.shields.io/badge/jsp-4479A1?style=for-the-badge&logo=jsp&logoColor=black"/>
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=black"/>
     <img src="https://img.shields.io/badge/VScode-0735AD?style=for-the-badge&logo=VScode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/VScode-0735AD?style=for-the-badge&logo=VScode&logoColor=black"/>
 </div>
 <hr/>
-<div align="center">
+<div align="between">
  <h3>GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=kim333333d&show_icons=true">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=kim333333d&show_icons=true">
+    </div>
+    <div>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/kim333333d/github-readme-stats)
+    </div>
 </div>
 <!-- ### Hi there 👋 -->
 
