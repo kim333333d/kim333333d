@@ -14,9 +14,12 @@
     <img src="https://img.shields.io/badge/fontawesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=black"/>
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black"/>
     <img src="https://img.shields.io/badge/jsp-4479A1?style=for-the-badge&logo=jsp&logoColor=black"/>
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=black"/>
+    <img src="https://img.shields.io/badge/VScode-0735AD?style=for-the-badge&logo=VScode&logoColor=black"/>
 </div>
 <hr/>
 <div align="center">
+ <h3>GitHub Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=kim333333d&show_icons=true">
 </div>
 <!-- ### Hi there 👋 -->
