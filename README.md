@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/VScode-0735AD?style=for-the-badge&logo=VScode&logoColor=black"/>
 </div>
 <hr/>
-<div align="between">
+<div align="center">
  <h3>GitHub Stats</h3>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=kim333333d&show_icons=true">
