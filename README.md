@@ -31,7 +31,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=kim333333d&show_icons=true">
     </div>
     <div>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kim333333d=anuraghazra&hide_progress=true)
+        <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kim333333d>
     </div>
 </div>
 <!-- ### Hi there 👋 -->
