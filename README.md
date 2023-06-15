@@ -2,14 +2,14 @@
 <div align="center">
     <h3>About me</h3>
 </div>
-<div >
-    <img src="./images/Ellipse 1.png" width="300">   
-    <div> 
-        <p>이름 : 김세현</p>
-        <p>이름 : 김세현</p>
-        <p>이름 : 김세현</p>
-        <p>이름 : 김세현</p>
-    </div>
+<div style="display: flex; align-items: center;">
+  <img src="./images/Ellipse 1.png" width="300" style="margin-right: 20px;">
+  <div>
+    <p>이름 : 김세현</p>
+    <p>이름 : 김세현</p>
+    <p>이름 : 김세현</p>
+    <p>이름 : 김세현</p>
+  </div>
 </div>
 <div align="center">
     <h3>Technology Stack</h3>
