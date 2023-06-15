@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Se-hyun%20Kim&fontSize=90)
 <div align="center">
-    <h3>About me</h3>
+    <h2>About me</h2>
 </div>
 <div align="center">
   <img src="./images/Ellipse 1.png" width="300" style="margin-right: 20px;">
