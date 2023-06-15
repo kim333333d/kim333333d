@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Se-hyun%20Kim&fontSize=90)
 <div align="center">
-    <h3>technology stack</h3>
+    <h3>Technology Stack</h3>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 </div>
+<hr/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kim333333d&show_icons=true">
 </div>
