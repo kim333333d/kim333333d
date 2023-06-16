@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
  
 </div>
-<hr/>
+
 <div align="center">
  <h2>GitHub Stats</h2>
     <div>
@@ -20,7 +20,7 @@
         <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kim333333d>
     </div>
 </div>
-<hr/>
+
 <div align="center">
     <h2>software developer camp</h2>
     <h6>2023.01.30 ~ 2023.07.20</h6>
