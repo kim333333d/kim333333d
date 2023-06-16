@@ -23,8 +23,8 @@
 <hr/>
 <div align="center">
     <h2>software developer camp</h2>
+    <h6>2023.01.30 ~ 2023.07.20</h6>
     <h3>최종 프로젝트</h3>
-    <h5>2023.01.30 ~ 2023.07.20</h5>
     <a href="https://github.com/kim333333d/Last-project-stream-park">
         <img src="./images/streamparkLogo.png" width="700">
     </a>
