@@ -1,17 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Se-hyun%20Kim&fontSize=90)
 <div align="center">
-    <h2>About me</h2>
-</div>
-<div align="center">
-  <img src="./images/Ellipse 1.png" width="300" style="margin-right: 20px;">
-  <div>
-    <p>Harder</p>
-    <p>Better</p>
-    <p>Faster</p>
-    <p>Stronger</p>
-  </div>
-</div>
-<div align="center">
     <h2>Technology Stack</h2>
      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
@@ -22,12 +10,6 @@
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"/>
     <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black"/>
-    <img src="https://img.shields.io/badge/fontawesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=black"/>
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black"/>
-    <img src="https://img.shields.io/badge/jsp-4479A1?style=for-the-badge&logo=jsp&logoColor=black"/>
-    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=black"/>
-    <img src="https://img.shields.io/badge/VScode-0735AD?style=for-the-badge&logo=VScode&logoColor=black"/>
  
 </div>
 <hr/>
