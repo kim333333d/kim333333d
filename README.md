@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Se-hyun%20Kim&fontSize=90)
-email : ksh5625@naver.com
+email : ksh56251@naver.com
 <!-- <div align="center">
     <h2>Technology Stack</h2>
      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
